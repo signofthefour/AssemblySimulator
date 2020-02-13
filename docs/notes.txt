@@ -1,0 +1,23 @@
+tao mot chuong trinh C++ co chuc nang:
+	+ import mot file chua code assembly.
+	+ ho tro dich ra ma may.
+	+ chay chuong trinh do.
+=====================================================================================
+Xu ly file dau vao:
+	+ Nhan mot ten tu nguoi dung
+	+ Open file do (.txt)
+	+ Doc du lieu tu file len
+	+ Kiem tra do chinh xac
+	+ Dua vao mang chuoi ki tu
+=====================================================================================
+Luu cac mang gom chuoi cac char* vao mot mang khong duoc?////
+=====================================================================================
+Luu cac lenh vao linked-list sau do luu vao mot mang 
+trong do co them mot lenh print o cuoi de phong truong hop label cuoi ma
+Dung mot ham exe tong de chay ma sau khi compile
+Trong exe gom:
+	vong lap tu dau den cuoi mang
+	moi vong lap cho chay ham getOpcode()
+	ep kieu ve dang theo opCode do
+	chay ham this->exe()
+	thay doi du lieu trong struct register
